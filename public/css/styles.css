@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center; 
+    margin-top: 170px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer{
+    border-top: 2px solid silver;
+    background: red;
+}
+h1{
+    color: #777;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+}
+
+h3{
+    color: rgb(18, 116, 34);
+    text-align: center;
+}
+p{
+    color: aqua;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #777;
+    margin-right: 16px;
+}
+
+a:hover{
+    color: red;
+}
